@@ -1,2 +1,1 @@
-print("Robot system initialized")
-print("Learning git on Linux")
+print("preparing or ros2")
